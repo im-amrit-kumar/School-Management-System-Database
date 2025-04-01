@@ -1,4 +1,4 @@
-#School Management System Database 📚🏫
+School Management System Database 📚🏫
 
 This project defines a School Management System database using SQL. It includes structured tables for managing students, teachers, courses, and administrative data.
 
